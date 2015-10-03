@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updateFiles>
+    <file name="doc\clientaccesspolicy.xml"  src="http://localhost:8015/clientaccesspolicy.xml" version="3" size="1394007" option="add"/>
+    <file name="doc\CnemcWebService.asmx"  src="http://localhost:8015/CnemcWebService.asmx" version="3" size="1394007" option="add"/>
+    <file name="doc\default.aspx"  src="http://localhost:8015/default.aspx" version="3" size="1191936" option="add"/>
+    <file name="doc\Silverlight.js"  src="http://localhost:8015/Silverlight.js" version="3" size="1191936" option="add"/>
+    <file name="doc\index.html"  src="http://localhost:8015/index.html" version="3" size="1191936" option="add"/>
+    <file name="Index.aspx"  src="http://localhost:8015/Index.aspx" version="3" size="14336" option="add"/>
+<file name="ClientBin\Images\Login\CNEMCLogo.png"  src="http://localhost:8015/ClientBin/Images/Login/CNEMCLogo.png" version="3" size="14336" option="add"/>
+<file name="ClientBin\Images\MainVisual\back.jpg"  src="http://localhost:8015/ClientBin/Images/MainVisual/back.jpg" version="4" size="14336" option="add"/>
+<file name="ClientBin\Images\MainVisual\Flag.png"  src="http://localhost:8015/ClientBin/Images/MainVisual/Flag.png" version="4" size="14336" option="add"/>
+<file name="ClientBin\Images\MainVisual\help_icon.png"  src="http://localhost:8015/ClientBin/Images/MainVisual/help_icon.png" version="4" size="14336" option="add"/>
+<file name="ClientBin\Images\MainVisual\help_icon_big.png"  src="http://localhost:8015/ClientBin/Images/MainVisual/help_icon_big.png" version="4" size="14336" option="add"/>
+<file name="ClientBin\Images\MainVisual\loading.png"  src="http://localhost:8015/ClientBin/Images/MainVisual/loading.png" version="4" size="14336" option="add"/>
+<file name="ClientBin\Images\MainVisual\logout_icon.png"  src="http://localhost:8015/ClientBin/Images/MainVisual/logout_icon.png" version="4" size="14336" option="add"/>
+<file name="ClientBin\Images\MainVisual\message_icon.png"  src="http://localhost:8015/ClientBin/Images/MainVisual/message_icon.png" version="4" size="14336" option="add"/>
+<file name="ClientBin\Images\MainVisual\point.png"  src="http://localhost:8015/ClientBin/Images/MainVisual/point.png" version="4" size="14336" option="add"/>
+<file name="ClientBin\Images\MainVisual\profile_edit_icon.png"  src="http://localhost:8015/ClientBin/Images/MainVisual/profile_edit_icon.png" version="4" size="14336" option="add"/>
+<file name="ClientBin\Images\MainVisual\square.png"  src="http://localhost:8015/ClientBin/Images/MainVisual/square.png" version="4" size="14336" option="add"/>
+</updateFiles>
